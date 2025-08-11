@@ -23,7 +23,7 @@
 
 ## Description
 
-Proof-of-concept project using Abstrato technologies
+Proof-of-concept project using Abstrato technologies.
 
 ## Project setup
 
